@@ -3,6 +3,8 @@
  
 This is a FREE GitHub repository where you can find lots of different software to use. Some of them include keys to activate them
 
+IMPORTANT: The password for every file is ¨ivaniersgithub¨
+
 Aviable software
 -UltraISO 9.7 (with key)
 
